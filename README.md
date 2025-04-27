@@ -74,4 +74,6 @@ bun run preview
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
 
-## Node.js: v22.15.0
+## Versions
+
+node.js v22.15.0
